@@ -13,3 +13,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	I could use platform like Google Drive/Docs, but it has its own settings and rules, which might not suitable for sharing technical things. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	When I'm still experimenting and I don't want my changes affect the whole program. It's very useful for collaboration with other people. 
+	The direct master is more simple, but less flexible. While the branch is more complicated in terms of the process, but more flexible. 
+
